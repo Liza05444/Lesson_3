@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/ABrom/source/repos/Dictionary/out/build/x64-debug/Dictionary/CMakeFiles/Dictionary.dir/embed.manifest"
