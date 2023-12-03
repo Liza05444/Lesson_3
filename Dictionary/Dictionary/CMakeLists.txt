@@ -1,0 +1,1 @@
+﻿add_executable (Dictionary "Menu/main.cpp" "Menu/menu.h" "Menu/create_hash.cpp" "Table/create_table.cpp" "Menu/print_synonyms.cpp" "Table/create_table.h" "Menu/print_rus_translation.cpp" "Menu/print_eng_translation.cpp")
