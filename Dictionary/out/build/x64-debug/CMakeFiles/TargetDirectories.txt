@@ -1,0 +1,5 @@
+C:/Users/ABrom/source/repos/Dictionary/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/ABrom/source/repos/Dictionary/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ABrom/source/repos/Dictionary/out/build/x64-debug/Dictionary/CMakeFiles/Dictionary.dir
+C:/Users/ABrom/source/repos/Dictionary/out/build/x64-debug/Dictionary/CMakeFiles/edit_cache.dir
+C:/Users/ABrom/source/repos/Dictionary/out/build/x64-debug/Dictionary/CMakeFiles/rebuild_cache.dir
